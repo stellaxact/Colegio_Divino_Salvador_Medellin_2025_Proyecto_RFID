@@ -71,8 +71,8 @@ El proyecto dejó como resultado:
 - Un **prototipo conceptual funcional** de sistema de control con RFID  
 - Una **estructura clara de implementación** aplicable en entornos reales  
 - Conocimientos en:
-  - Programación (C / lógica de control)  
-  - Microcontroladores (ESP32)  
+  - Programación (C, python. MYSQL, arduino, ensamblador (assembly o asm) / lógica de control)  
+  - Microcontroladores (ESP32, raspberry pi 4)  
   - Redes e IoT  
   - Seguridad y trazabilidad de información  
 
